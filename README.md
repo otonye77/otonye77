@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amietubodie Otonye</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://themepack.me/i/c/749x467/media/g/2346/obito-uchiha-theme-rn1.jpg”  />
+<img src="https://assets.ayobandung.com/crop/0x376:700x870/750x500/webp/photo/2023/01/18/2485876459.jpg" alt="coding" align="right" width="400" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=otonye77&label=Profile%20views&color=0e75b6&style=flat" alt="otonye77" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=otonye77" alt="otonye77" /></a> </p>
