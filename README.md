@@ -5,6 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=otonye77" alt="otonye77" /></a> </p>
 
+
+
+
 - 🌱 I’m currently learning **Python, Flask and Django**
 
 - 👯 I’m looking to collaborate on **interesting projects**
